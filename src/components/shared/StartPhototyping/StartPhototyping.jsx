@@ -2,7 +2,7 @@
 import BorderColorRoundedIcon from '@mui/icons-material/BorderColorRounded';
 const StartPhototyping = () => {
     return (
-            <div style={{textAlign:'center'}}>
+            <div style={{textAlign:'center',padding:'49px 0px'}}>
                 <h1>Start Phototyping on your next project</h1>
                 <p>After started coding, phototyping is much more important. Because of, this the visual output of a project</p>
                 <BorderColorRoundedIcon></BorderColorRoundedIcon>
